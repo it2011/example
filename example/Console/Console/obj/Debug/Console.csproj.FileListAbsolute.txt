@@ -1,0 +1,6 @@
+S:\GIT_MD\example\Console\Console\bin\Debug\Console.exe.config
+S:\GIT_MD\example\Console\Console\bin\Debug\Console.exe
+S:\GIT_MD\example\Console\Console\bin\Debug\Console.pdb
+S:\GIT_MD\example\Console\Console\obj\Debug\Console.csprojResolveAssemblyReference.cache
+S:\GIT_MD\example\Console\Console\obj\Debug\Console.exe
+S:\GIT_MD\example\Console\Console\obj\Debug\Console.pdb
